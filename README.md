@@ -77,6 +77,6 @@ This project demonstrates a **full data pipeline** — from scraping raw data to
 ---
 ### Connect with me
 
-- GitHub: [GitHub](https://github.com/KARANKHADKA))
+- GitHub: [GitHub](https://github.com/KARANKHADKA)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/karan-khadka-185547230/)
 
